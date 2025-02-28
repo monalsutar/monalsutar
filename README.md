@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monalsutar
-- 🌱 I’m currently working on Android Development
+- 🌱 I’m full stack developer
 
 
 
