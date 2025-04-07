@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @monalsutar
-- 🌱 I’m full stack developer
-
+- 🌱 I’m Computer Science Engineer
 
 
