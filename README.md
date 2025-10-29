@@ -5,7 +5,7 @@ I specialize in building efficient and scalable web applications using Next.js, 
 
 🚀 Some of my key projects include:
 
-💼 BillDesk (Web App) – A full stack Next.js + MongoDB billing and invoicing platform with product management, PDF generation, and email integration.
+💼 Quick Bill (Web App) – A full stack Next.js + MongoDB billing and invoicing platform with product management, PDF generation, and email integration.
 
 📱 BillDesk (Flutter App) – A mobile-first billing app with real-time inventory tracking and Firebase integration.
 
